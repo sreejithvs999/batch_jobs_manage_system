@@ -1,0 +1,14 @@
+****** Test Batch Job *****
+parameters of batch = {maxWait=30, copyFiles=a.txt,b.txt,c.txt,d.txt,e.txt,f.txt,g.txt,h.txt,i.txt,j.txt}
+Batch need 30 seconds time to finish
+Copying file : a.txt
+Copying file : b.txt
+Copying file : c.txt
+Copying file : d.txt
+Copying file : e.txt
+Copying file : f.txt
+Copying file : g.txt
+Copying file : h.txt
+Copying file : i.txt
+Copying file : j.txt
+Batch got finished Sat May 19 20:44:41 IST 2018

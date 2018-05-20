@@ -1,0 +1,11 @@
+****** Test Batch Job *****
+parameters of batch = {emailIds=a@b.de,c@d.de,e@f.de,g@h.de,i@j.de,k@l.de,sreejithvs999@gmail.com, maxWait=30}
+Batch need 30 seconds time to finish
+Sending email to : a@b.de
+Sending email to : c@d.de
+Sending email to : e@f.de
+Sending email to : g@h.de
+Sending email to : i@j.de
+Sending email to : k@l.de
+Sending email to : sreejithvs999@gmail.com
+Batch got finished Sat May 19 20:46:03 IST 2018
